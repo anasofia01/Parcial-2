@@ -1,0 +1,1 @@
+export {default as CardCat} from "./CardCat/CardCat";
